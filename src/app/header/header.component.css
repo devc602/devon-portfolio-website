@@ -1,0 +1,22 @@
+#headTitle{
+    font-size: 35px
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #D4AF37;
+    font-family: "Arial Black", Arial, Helvetica, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    color: #D4AF37;
+}
+
+.navbar {
+    background-color: #49274A;
+}
+
+.active a {
+    background-color: #94618E !important;
+    color: white !important;
+}

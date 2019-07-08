@@ -1,0 +1,17 @@
+.resumeTitle {
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+    text-shadow: 2px 2px #49274A;
+    color: white;
+}
+
+ul{
+    font-size: 25px;
+    color: #F8EEE7;
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+label{
+    font-size: 20px;
+    color: #D4AF37;
+    text-shadow: 2px 2px black;
+}

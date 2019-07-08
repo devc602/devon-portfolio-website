@@ -1,0 +1,29 @@
+.resumeTitle {
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+    text-shadow: 2px 2px #49274A;
+    color: white;
+}
+
+ul{
+    font-size: 18px;
+    color: #F8EEE7;
+}
+label{
+    font-size: 20px;
+    color: #D4AF37;
+    text-shadow: 2px 2px black;
+}
+
+.bmwLogo{
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin-bottom: 50px;
+    transform: translateX(-45%);
+}
+
+.educationInfo{
+    font-size: 26px;
+    transform: translateY(120%);
+}
